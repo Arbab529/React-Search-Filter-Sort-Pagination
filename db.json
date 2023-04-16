@@ -1,0 +1,148 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Arbab",
+            "email": "arbab@gmail.com",
+            "address": "PK",
+            "phone": "123456",
+            "status": "active"
+        },
+        {
+            "id": 2,
+            "name": "Anjum",
+            "email": "anjum@gmail.com",
+            "address": "UK",
+            "phone": "324234256",
+            "status": "inactive"
+        },
+        {
+            "id": 3,
+            "name": "john",
+            "email": "john@gmail.com",
+            "address": "US",
+            "phone": "89326523",
+            "status": "active"
+        },
+        {
+            "id": 4,
+            "name": "Mack",
+            "email": "mack@gmail.com",
+            "address": "UK",
+            "phone": "78634925",
+            "status": "active"
+        },
+        {
+            "id": 5,
+            "name": "Qaiser",
+            "email": "qaiser@gmail.com",
+            "address": "PK",
+            "phone": "894357",
+            "status": "active"
+        },
+        {
+            "id": 6,
+            "name": "Aqib",
+            "email": "aqib@gmail.com",
+            "address": "PK",
+            "phone": "2857924",
+            "status": "inactive"
+        },
+        {
+            "id": 7,
+            "name": "Zain",
+            "email": "zain@gmail.com",
+            "address": "KSA",
+            "phone": "3209590",
+            "status": "active"
+        },
+        {
+            "id": 8,
+            "name": "Mohsin",
+            "email": "mohsin@gmail.com",
+            "address": "PK",
+            "phone": "20934122",
+            "status": "inactive"
+        },
+        {
+            "id": 9,
+            "name": "Mark",
+            "email": "mark@gmail.com",
+            "address": "AUS",
+            "phone": "210948392",
+            "status": "inactive"
+        },
+        {
+            "id": 10,
+            "name": "Ali",
+            "email": "ali@gmail.com",
+            "address": "PK",
+            "phone": "02396323",
+            "status": "inactive"
+        },
+        {
+            "id": 11,
+            "name": "Bilal",
+            "email": "bilal@gmail.com",
+            "address": "USA",
+            "phone": "3095720923",
+            "status": "active"
+        },
+        {
+            "id": 12,
+            "name": "Qaiser",
+            "email": "qaiser@gmail.com",
+            "address": "PK",
+            "phone": "894357",
+            "status": "active"
+        },
+        {
+            "id": 13,
+            "name": "Aqib",
+            "email": "aqib@gmail.com",
+            "address": "PK",
+            "phone": "2857924",
+            "status": "inactive"
+        },
+        {
+            "id": 14,
+            "name": "Zain",
+            "email": "zain@gmail.com",
+            "address": "KSA",
+            "phone": "3209590",
+            "status": "active"
+        },
+        {
+            "id": 15,
+            "name": "Mohsin",
+            "email": "mohsin@gmail.com",
+            "address": "PK",
+            "phone": "20934122",
+            "status": "inactive"
+        },
+        {
+            "id": 16,
+            "name": "Mark",
+            "email": "mark@gmail.com",
+            "address": "AUS",
+            "phone": "210948392",
+            "status": "inactive"
+        },
+        {
+            "id": 17,
+            "name": "Ali",
+            "email": "ali@gmail.com",
+            "address": "PK",
+            "phone": "02396323",
+            "status": "inactive"
+        },
+        {
+            "id": 18,
+            "name": "Bilal",
+            "email": "bilal@gmail.com",
+            "address": "USA",
+            "phone": "3095720923",
+            "status": "active"
+        }
+    ]
+}
